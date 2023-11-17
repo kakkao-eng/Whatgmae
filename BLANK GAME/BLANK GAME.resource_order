@@ -13,10 +13,18 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"EARTH","order":3,"path":"folders/Sprites/EARTH.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Obj_ground","order":1,"path":"objects/Obj_ground/Obj_ground.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Spr_ground","order":1,"path":"sprites/Spr_ground/Spr_ground.yy",},
+    {"name":"Spr_coin","order":2,"path":"sprites/Spr_coin/Spr_coin.yy",},
+    {"name":"Spr_gate","order":3,"path":"sprites/Spr_gate/Spr_gate.yy",},
+    {"name":"Obj_gate","order":4,"path":"objects/Obj_gate/Obj_gate.yy",},
+    {"name":"Obj_coin","order":2,"path":"objects/Obj_coin/Obj_coin.yy",},
   ],
 }
