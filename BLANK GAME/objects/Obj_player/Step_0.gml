@@ -1,7 +1,7 @@
 move_x = keyboard_check(vk_right) - keyboard_check(vk_left)
 move_x = move_x * move_speed;
 
-if place_meeting(x,y+2, Obj_ground )
+if place_meeting(x,y+2, Obj_ground)
 {
 	move_y = 0;
 	
@@ -18,4 +18,7 @@ if move_x != 0
 {
 	image_xscale = sign(move_x);	
 }
+
+
+
 
